@@ -1,0 +1,1 @@
+ @echo off cd /d C:\Users\Админ\moodle-tracker call venv\Scripts\activate python tracker.py 
